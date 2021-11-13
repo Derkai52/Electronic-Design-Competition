@@ -1,10 +1,12 @@
 ## 2021 TI CUP Electronic Design Competition (F)
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1113/234819_47c5ae11_7408810.png "捕获.PNG")
+
 
 ### 一、项目概况：
 
 本项目为2021全国大学生电子设计大赛F题【送药小车】视觉代码。
+
+![输入图片说明](https://images.gitee.com/uploads/images/2021/1113/234819_47c5ae11_7408810.png "捕获.PNG")
 
 **1、视觉硬件设备：**
 
