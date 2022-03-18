@@ -18,17 +18,12 @@
 
 **2、项目文件目录树**
 
-———
+> ──
+>  ├── model                (存储地面数字模板图像BMP文件)
+>  ├── model_template       (存储地面数字模板PGM文件)
+>  ├── target               (存储手持数字模板图像BMP文件)
+>  └── main.py	      (主程序代码)
 
-​	|---model 						 (存储地面数字模板图像BMP文件)
-
-​	|---model_template 	   (存储地面数字模板PGM文件)
-
-​	|---target 						  (存储手持数字模板图像BMP文件)
-
-​	|---target_template 		(存储手持数字模板PGM文件)
-
-​	|---main.py					   (主程序代码)
 
 
 
